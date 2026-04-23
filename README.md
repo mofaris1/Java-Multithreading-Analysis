@@ -20,4 +20,4 @@ The implementation was tested with varying thread counts to observe the efficien
 ## How to Run
 1. Compile the program:
    ```bash
-   javac a.java
+   javac MultithreadedSum.java
